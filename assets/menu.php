@@ -1,8 +1,10 @@
 <div id="navbar" class="navbar-collapse collapse">
     <div class="nav_right_top">
         <div class="menu-first-part">
-        	<div class="w3ls-bnr-icons social-w3licon navbar-right">
-            	<a href="#" class="social-button twitter"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
+        <div class="hdr-w3left navbar-left">
+				<p><span class="fa fa-mobile"></span> +040 354 658 252 </p> 
+			</div>
+			<div class="w3ls-bnr-icons social-w3licon navbar-right">
 				<a href="#" class="social-button twitter"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
 				<a href="#" class="social-button facebook"><i class="fab fa-twitter" aria-hidden="true"></i></a> 
 				<a href="#" class="social-button google"><i class="fab fa-instagram" aria-hidden="true"></i></i></a>

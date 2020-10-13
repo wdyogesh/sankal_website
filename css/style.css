@@ -112,7 +112,7 @@ label {
 .logo_wthree_agile .fa-w-18 {
     margin: 0;
     font-size: 1em;
-    color: #ff4c00;
+    color: #009eff;
 }
 
 .navbar-nav>li>a {
@@ -157,7 +157,7 @@ a.request {
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
-    background-color: #009eff9c;
+    background-color: #009eff;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -169,7 +169,7 @@ a.request {
 .navbar-default .navbar-nav>li>a:hover,
 .navbar-default .navbar-nav>li>a:focus {
     color: #fff;
-    background-color: #009eff9c;;
+    background-color: #009eff;
 }
 
 span.desc {
@@ -248,7 +248,7 @@ span.desc {
     font-size: 0.9em;
     border-radius: 0;
     border: 1px solid #fff;
-    background: #009eff9c;;
+    background: #009eff;
 }
 
 .carousel-caption a:hover {
@@ -347,7 +347,7 @@ span.desc {
     text-decoration: none;
     padding: 1.2em 3em;
     text-align: center;
-    border: solid 2px #009eff9c;
+    border: solid 2px #009eff;
     letter-spacing: 2px;
     text-transform: uppercase;
     color: #fff;
@@ -572,7 +572,7 @@ a.two.scroll {
 }
 
 .callbacks_here a:after {
-    background: #ff4c00;
+    background: #009eff;
 }
 
 /*-- //slider --*/
@@ -1698,7 +1698,7 @@ ol.carousel-indicators.two {
     margin: 0 0 0 -4px;
     font-weight: 600;
     letter-spacing: 1px;
-    background: #ff4c00;
+    background: #009eff;
     color: #fff;
 }
 
@@ -2129,7 +2129,7 @@ p.read_para i {
     }
     .logo-images {
         margin: 0px 0px 0px 7px;
-        width: 49px;
+        width: 100px;
     }
     .log-div {
         background-color: #fff;
@@ -2653,7 +2653,7 @@ p.read_para i {
     }
     .navbar-nav .open .dropdown-menu>li>a:hover,
     .navbar-default .navbar-nav .open .dropdown-menu>li>a:focus {
-        color: #ff4c00;
+        color: #009eff;
         background-color: transparent;
     }
     .navbar-fixed-top .navbar-collapse,

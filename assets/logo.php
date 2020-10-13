@@ -9,7 +9,9 @@
     </div>
     <div class="logo_wthree_agile">
         <a class="navbar-brand" href="index.php">
-            <img class="responsive logo-images" src="images/logo3.png" alt="" srcset="">
+            <div class="log-div">
+                <img class="responsive logo-images" src="images/logo3.png" alt="" srcset="">
+            </div>
         </a>
     </div>
 </div>

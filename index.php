@@ -1166,6 +1166,29 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			$(this).find('.dropdown-menu').stop(true, true).delay(200).fadeOut(500);
 		});
 	</script>
+
+	<!-- js -->
+	<script type="text/javascript" src="js/simplyCountdown.js"></script>
+	<link href="css/simplyCountdown.css" rel='stylesheet' type='text/css' />
+	<!-- <script>
+		var d = new Date();
+		simplyCountdown('simply-countdown', {
+			year: d.getFullYear(),
+			month: d.getMonth() + 2,
+			day: 25
+		});
+		simplyCountdown('simply-countdown-custom', {
+			year: d.getFullYear(),
+			month: d.getMonth() + 2,
+			day: 25
+		});
+		$('#simply-countdown-losange').simplyCountdown({
+			year: d.getFullYear(),
+			month: d.getMonth() + 2,
+			day: 25
+		});
+	</script> -->
+	<!--js-->
 	<!--/tooltip -->
 	<script>
 		$(function () {
